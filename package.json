@@ -1,0 +1,16 @@
+{
+  "name": "raya-ui",
+  "version": "1.0.0",
+  "description": "CLI for Raya UI",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "raya-ui": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["vue", "nuxt", "components", "raya-ui", "shadcn"],
+  "author": "Iman Mohammadi",
+  "license": "MIT"
+}
